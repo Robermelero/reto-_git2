@@ -9,4 +9,4 @@
 9. Al incluir el comando *.png en el fichero .gitignore, se han quedado en gris.
 He subido todos los archivos del proyecto con add . commit y push, se han quedado todos guardado en el reppositorio remoto sin generar ningun problema, a su vez la carpeta con fotos y resto de archivos .png no aparecen.
 10. Al crear las ramas y hacer los cambios en la rama 1, al intentar guardarlo en el repositorio remoto nos da un error/aviso de que hay que crear las ramas en el repositorio remoto primero para poder guardar los cambios creados en dicha rama. En la propia consola sale el comando a ejecutar para crearla. Despues de esto se puede subir con push y fusionar con merge al proyecto principal ya que no hay conflictos.
-11. Al subir desde la rama dos la modificacion de la suma, ha surgido un conflicto que he tenido que solucionar desde github y a su vez he tenido que confirmar los dos merge, de las dos ramas, ambas desde la pagina web.
+11. Al subir desde la rama dos la modificacion de la suma, ha surgido un conflicto que he tenido que solucionar desde github y a su vez he tenido que confirmar los dos merge, de las dos ramas, ambas desde la pagina web!
